@@ -1,0 +1,22 @@
+{
+  "name": "7.4_puppeteer_timeout",
+  "version": "1.0.0",
+  "description": "my first project with puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "puppeter",
+    "netology",
+    "test"
+  ],
+  "author": "KChepelevich",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1",
+    "jest-puppeteer": "^6.1.0",
+    "prettier": "^2.6.1",
+    "puppeteer": "^13.5.2"
+  }
+}
