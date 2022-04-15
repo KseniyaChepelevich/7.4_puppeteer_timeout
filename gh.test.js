@@ -11,7 +11,6 @@ afterEach(() => {
 
 describe("Github page tests", () => {
   beforeEach(async () => {
-    page = await browser.newPage();
     await page.goto("https://github.com/team");
   });
 
